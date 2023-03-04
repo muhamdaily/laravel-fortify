@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getstisla.com">
+  <a href="https://web.anteiku.tech">
     <img src="https://raw.githubusercontent.com/muhammedia/laravel-fortify/main/icon.png" alt="Icon" width="75" height="75">
   </a>
 </p>
@@ -65,7 +65,7 @@ $ php artisan migrate
 ```
 jika kamu belum mempunyai database, akan muncul pertanyaan seperti berikut ini
 ```bash
-WARN  The database 'db_pas_kelompok9' does not exist
+WARN  The database 'your_database_name' does not exist
 on the 'mysql' connection.  
 
   Would you like to create it? (yes/no) [no]
